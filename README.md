@@ -2,13 +2,15 @@
 
 ## Overview
 
-Documentation of using artificial intelligence as a technical learning, research, troubleshooting, and productivity tool.
+Documentation of using AI as a technical learning, research, troubleshooting, and productivity tool.
 
-The goal of this project is to demonstrate how AI can be used alongside independent technical investigation rather than simply relying on AI-generated answers.
+This project demonstrates how AI can be used alongside independent investigation and hands-on testing to improve technical problem solving, documentation, and workflow development.
+
+The focus is on using AI as an assistant rather than treating AI-generated information as authoritative.
 
 ---
 
-## Areas of Use
+## Areas of Application
 
 AI-assisted workflows have been used for:
 
@@ -18,28 +20,28 @@ AI-assisted workflows have been used for:
 - Software configuration
 - Learning new technologies
 - Comparing technical solutions
-- Documentation
+- Technical documentation
 - Problem decomposition
 - Workflow development
-- Exploring automation
-- Exploring practical AI integrations
+- Automation concepts
+- Practical AI integrations
 
 ---
 
-## Technical Problem-Solving Workflow
+## Technical Workflow
 
-AI assistance is incorporated into a broader troubleshooting process:
+A typical AI-assisted workflow follows a structured process:
 
-1. Identify the technical problem
-2. Define the desired outcome
-3. Research relevant technical concepts
-4. Use AI to explore possible causes and solutions
-5. Verify information against technical documentation and specifications
-6. Test solutions when appropriate
+1. Identify the problem or desired outcome
+2. Define the technical requirements
+3. Research relevant concepts
+4. Use AI to explore possible causes or solutions
+5. Verify information using technical documentation and specifications
+6. Test potential solutions
 7. Evaluate the results
-8. Document the process and lessons learned
+8. Document the findings
 
-AI is treated as a research and productivity tool rather than a replacement for verification or hands-on testing.
+AI is used to accelerate research and problem solving while maintaining independent verification.
 
 ---
 
@@ -47,72 +49,78 @@ AI is treated as a research and productivity tool rather than a replacement for 
 
 ### PC Hardware Research
 
-Used AI-assisted research to investigate:
+AI-assisted research has been used to investigate:
 
-- Component compatibility
-- NVMe SSD options
-- GPU upgrades
+- NVMe storage
+- GPU compatibility
 - RAM compatibility
 - PSU requirements
-- Cooling considerations
+- Cooling requirements
 - Hardware specifications
+- Upgrade considerations
 
 ### Windows Troubleshooting
 
-Used AI-assisted research while investigating:
+AI has assisted with researching:
 
 - System instability
 - Performance problems
 - Storage management
-- Software configuration
+- Windows configuration
 - Background processes
-- Windows troubleshooting methods
+- Troubleshooting methodologies
 
-### Local AI & ComfyUI
+Solutions are evaluated against observed system behavior and technical documentation.
 
-Used AI assistance to:
+### Local AI / ComfyUI
 
-- Understand unfamiliar software
-- Troubleshoot installation issues
-- Research model requirements
-- Understand workflow components
-- Investigate configuration problems
-- Learn node-based workflows
+AI-assisted research has helped with:
+
+- Unfamiliar software
+- Installation issues
+- Model requirements
+- Workflow components
+- Configuration problems
+- Troubleshooting
+
+Hands-on testing is used to verify proposed solutions.
 
 ### Technical Learning
 
-AI has also been used to break down unfamiliar technical concepts into understandable components and provide additional explanations while learning areas such as:
+AI has also been used as a learning aid while studying:
 
 - Networking
 - Linux
 - Windows administration
 - Cybersecurity
-- System administration
+- Systems administration
 - Programming and automation concepts
+
+These areas represent ongoing learning rather than completed professional experience.
 
 ---
 
-## Verification & Critical Thinking
+## Verification Process
 
-AI-generated information is not automatically treated as authoritative.
+AI-generated information is not treated as automatically correct.
 
-Technical information is evaluated using:
+Technical information is verified when appropriate using:
 
 - Manufacturer documentation
 - Official software documentation
 - Hardware specifications
-- Multiple technical sources
+- Multiple reliable sources
 - Hands-on testing
-- System behavior and observed results
+- Observed system behavior
 
-When information is uncertain or potentially outdated, additional verification is performed before making system changes or technical decisions.
+This process helps identify inaccurate assumptions and improves technical understanding.
 
 ---
 
 ## Skills Demonstrated
 
 - AI-assisted technical research
-- Technical problem decomposition
+- Problem decomposition
 - Troubleshooting
 - Technical documentation
 - Independent learning
@@ -121,17 +129,21 @@ When information is uncertain or potentially outdated, additional verification i
 - Software troubleshooting
 - Workflow development
 - Technical communication
-- Critical evaluation of AI-generated information
+- Critical evaluation
 
 ---
 
 ## Lessons Learned
 
-- AI can significantly accelerate technical research and learning when used effectively.
-- AI-generated information still requires verification.
-- Breaking complex problems into smaller components produces better troubleshooting results.
-- Combining AI assistance with documentation and hands-on testing provides a stronger learning process.
-- The ability to ask precise technical questions is an important part of using AI effectively.
+This project reinforced the importance of:
+
+- Using AI to accelerate research rather than replace investigation
+- Breaking complex technical problems into smaller components
+- Verifying technical information before applying it
+- Combining AI assistance with documentation and hands-on testing
+- Asking precise technical questions
+- Evaluating proposed solutions critically
+- Documenting the reasoning behind technical decisions
 
 ---
 
@@ -139,4 +151,6 @@ When information is uncertain or potentially outdated, additional verification i
 
 **Ongoing**
 
-This project will continue to document practical applications of AI in IT, cybersecurity, systems administration, automation, technical research, and professional development.
+This project will continue to develop alongside my IT and cybersecurity education.
+
+Future work may include AI-assisted automation, technical research workflows, cybersecurity learning, and practical AI integrations.
